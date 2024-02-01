@@ -17,7 +17,7 @@ First of all you'll need to start Gophish through the exe file: <br/>
 <img src="https://i.imgur.com/bhs1zYn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Open your local host with the default config address at http://127.0.0.1:3333. Note that 3333 is the default port you'll be using to access gophish and it can be changed to your prefered port:  <br/>
+Open your local host with the default config address at http://127.0.0.1:3333. Note that 3333 is the default port you'll be using to access gophish and it can be changed to your preferred port:  <br/>
 <img src="https://i.imgur.com/8Mk6WjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -99,7 +99,7 @@ Open your dasboard to see phishing success:  <br/>
 <img src="https://i.imgur.com/K8IuD7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Here's the phishing information and highlighted is the wordpress username and password I input in the spoofed page:  <br/>
+Here's the phishing information and highlighted is the wordpress username and password I input into the spoofed page:  <br/>
 <img src="https://i.imgur.com/F0pEnrb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
