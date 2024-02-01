@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I will be explaining the whole process on how I used Gophish framework to create a very convincing wordpress phishing email. The following steps I will be showing can be replicated and used on any other login pages of your choice. I wont be showing how I setup Gophish to save time and if you need help setting it up, there's a lot of resources on youtube and chatgpt which should guide you through the whole setup. So without further delay I'll begin the project.
+In this project, I will be explaining the whole process on how I used Gophish framework to create a very convincing wordpress phishing email. The following steps I will be showing can be replicated and used on any other login pages of your choice. I wont be showing how I setup Gophish since there's a lot of resources on youtube and chatgpt that should guide you through the whole setup. So without further delay I'll begin the project.
 <br />
 
 
